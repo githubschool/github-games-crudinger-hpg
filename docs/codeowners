@@ -1,0 +1,4 @@
+* @derp
+*.js @front-end-team
+/tests/ @qa-team
+*.rb @matz
